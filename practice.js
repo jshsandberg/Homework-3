@@ -34,11 +34,9 @@ generateEl.addEventListener(`click`, () => {
 });
 
 
-    //Trying to figure out how I can create if statements when checking to see if boxes are checked
+    //Trying to figure out how I can create if/else statements when checking to see if boxes are checked
 generateEl.addEventListener(`click`, () => {
-  if (hasLower = true) {
-      a = getRandomLower();
-    } else ( return );
+  a = getRandomLower();
   b = getRandomUpper();
   c = getRandomNumber();
   d = getRandomSymbol();  
