@@ -6,3 +6,6 @@ Using checked boxes, the user can personally choose if the password he/she wants
 
 The user can determine the length of the password.
 
+## Link
+
+https://jshsandberg.github.io/Password-Generator/
